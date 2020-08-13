@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KoaanSite./precache-manifest.ec84e99a7bb798a9b8d0807f9827d851.js"
+  "/KoaanSite./precache-manifest.5bc5a012f13a78b40e94e6bea395949d.js"
 );
 
 self.addEventListener('message', (event) => {

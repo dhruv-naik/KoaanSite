@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b0c898e4dfff4b69796ba5318e6df19",
+    "revision": "abcbe5d2d58b68a06a2f4a61a3c68037",
     "url": "/KoaanSite./index.html"
   },
   {
-    "revision": "c51f74e97b4569daf4f8",
-    "url": "/KoaanSite./static/css/main.de5528e7.chunk.css"
+    "revision": "0f9b853e8f03c649aaea",
+    "url": "/KoaanSite./static/css/main.94f9b93d.chunk.css"
   },
   {
     "revision": "e9268615b868b339ce58",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KoaanSite./static/js/2.2d77933c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c51f74e97b4569daf4f8",
+    "revision": "0f9b853e8f03c649aaea",
     "url": "/KoaanSite./static/js/main.0114dce5.chunk.js"
   },
   {

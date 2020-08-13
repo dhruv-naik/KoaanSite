@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KoaanSite./static/css/main.de5528e7.chunk.css",
+    "main.css": "/KoaanSite./static/css/main.94f9b93d.chunk.css",
     "main.js": "/KoaanSite./static/js/main.0114dce5.chunk.js",
     "main.js.map": "/KoaanSite./static/js/main.0114dce5.chunk.js.map",
     "runtime-main.js": "/KoaanSite./static/js/runtime-main.9f78f889.js",
@@ -8,9 +8,9 @@
     "static/js/2.2d77933c.chunk.js": "/KoaanSite./static/js/2.2d77933c.chunk.js",
     "static/js/2.2d77933c.chunk.js.map": "/KoaanSite./static/js/2.2d77933c.chunk.js.map",
     "index.html": "/KoaanSite./index.html",
-    "precache-manifest.ec84e99a7bb798a9b8d0807f9827d851.js": "/KoaanSite./precache-manifest.ec84e99a7bb798a9b8d0807f9827d851.js",
+    "precache-manifest.5bc5a012f13a78b40e94e6bea395949d.js": "/KoaanSite./precache-manifest.5bc5a012f13a78b40e94e6bea395949d.js",
     "service-worker.js": "/KoaanSite./service-worker.js",
-    "static/css/main.de5528e7.chunk.css.map": "/KoaanSite./static/css/main.de5528e7.chunk.css.map",
+    "static/css/main.94f9b93d.chunk.css.map": "/KoaanSite./static/css/main.94f9b93d.chunk.css.map",
     "static/js/2.2d77933c.chunk.js.LICENSE.txt": "/KoaanSite./static/js/2.2d77933c.chunk.js.LICENSE.txt",
     "static/media/TALL.png": "/KoaanSite./static/media/TALL.350872b6.png",
     "static/media/Homestyle.css": "/KoaanSite./static/media/paintingtree-min.d40e95dc.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.9f78f889.js",
     "static/js/2.2d77933c.chunk.js",
-    "static/css/main.de5528e7.chunk.css",
+    "static/css/main.94f9b93d.chunk.css",
     "static/js/main.0114dce5.chunk.js"
   ]
 }
