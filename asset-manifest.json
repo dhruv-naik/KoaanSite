@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/KoaanSite/static/css/main.fc0f4148.chunk.css",
-    "main.js": "/KoaanSite/static/js/main.9e081932.chunk.js",
-    "main.js.map": "/KoaanSite/static/js/main.9e081932.chunk.js.map",
-    "runtime-main.js": "/KoaanSite/static/js/runtime-main.517ee443.js",
-    "runtime-main.js.map": "/KoaanSite/static/js/runtime-main.517ee443.js.map",
-    "static/js/2.2d77933c.chunk.js": "/KoaanSite/static/js/2.2d77933c.chunk.js",
-    "static/js/2.2d77933c.chunk.js.map": "/KoaanSite/static/js/2.2d77933c.chunk.js.map",
-    "index.html": "/KoaanSite/index.html",
-    "precache-manifest.065db47741bf38c6c3d715c5a9d2cb9b.js": "/KoaanSite/precache-manifest.065db47741bf38c6c3d715c5a9d2cb9b.js",
-    "service-worker.js": "/KoaanSite/service-worker.js",
-    "static/css/main.fc0f4148.chunk.css.map": "/KoaanSite/static/css/main.fc0f4148.chunk.css.map",
-    "static/js/2.2d77933c.chunk.js.LICENSE.txt": "/KoaanSite/static/js/2.2d77933c.chunk.js.LICENSE.txt",
-    "static/media/TALL.png": "/KoaanSite/static/media/TALL.350872b6.png",
-    "static/media/Homestyle.css": "/KoaanSite/static/media/paintingtree-min.d40e95dc.png",
-    "static/media/logo.svg": "/KoaanSite/static/media/logo.5d5d9eef.svg",
-    "static/media/wide.png": "/KoaanSite/static/media/wide.d1fe74e3.png"
+    "main.css": "/KoaanSite./static/css/main.de5528e7.chunk.css",
+    "main.js": "/KoaanSite./static/js/main.0114dce5.chunk.js",
+    "main.js.map": "/KoaanSite./static/js/main.0114dce5.chunk.js.map",
+    "runtime-main.js": "/KoaanSite./static/js/runtime-main.9f78f889.js",
+    "runtime-main.js.map": "/KoaanSite./static/js/runtime-main.9f78f889.js.map",
+    "static/js/2.2d77933c.chunk.js": "/KoaanSite./static/js/2.2d77933c.chunk.js",
+    "static/js/2.2d77933c.chunk.js.map": "/KoaanSite./static/js/2.2d77933c.chunk.js.map",
+    "index.html": "/KoaanSite./index.html",
+    "precache-manifest.ec84e99a7bb798a9b8d0807f9827d851.js": "/KoaanSite./precache-manifest.ec84e99a7bb798a9b8d0807f9827d851.js",
+    "service-worker.js": "/KoaanSite./service-worker.js",
+    "static/css/main.de5528e7.chunk.css.map": "/KoaanSite./static/css/main.de5528e7.chunk.css.map",
+    "static/js/2.2d77933c.chunk.js.LICENSE.txt": "/KoaanSite./static/js/2.2d77933c.chunk.js.LICENSE.txt",
+    "static/media/TALL.png": "/KoaanSite./static/media/TALL.350872b6.png",
+    "static/media/Homestyle.css": "/KoaanSite./static/media/paintingtree-min.d40e95dc.png",
+    "static/media/logo.svg": "/KoaanSite./static/media/logo.5d5d9eef.svg",
+    "static/media/wide.png": "/KoaanSite./static/media/wide.d1fe74e3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.517ee443.js",
+    "static/js/runtime-main.9f78f889.js",
     "static/js/2.2d77933c.chunk.js",
-    "static/css/main.fc0f4148.chunk.css",
-    "static/js/main.9e081932.chunk.js"
+    "static/css/main.de5528e7.chunk.css",
+    "static/js/main.0114dce5.chunk.js"
   ]
 }
